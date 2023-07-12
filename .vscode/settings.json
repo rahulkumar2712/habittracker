@@ -1,0 +1,8 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-20",
+            "path": "c:\\Users\\rkspo\\OneDrive\\Desktop\\habbit tracker\\HabitTracker_CN\\graalvm-jdk-20.0.1+9.1"
+        }
+    ]
+}
